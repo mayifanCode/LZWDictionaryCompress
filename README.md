@@ -1,0 +1,2 @@
+# LZWDictionaryCompress
+by Java
